@@ -1,0 +1,11 @@
+Git Commands
+------------------------------------------------------------
+Cloning a online repo to local
+
+$ git clone https://github.com/Sidharthsekar/LearnGit.git
+    This url will be available in online repo's
+
+Initializing the git repo
+
+$ git init
+    This will allow us to create a repo in our local. In simpler terms, once you execute this any folder, you can see .git folder

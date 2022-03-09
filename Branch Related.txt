@@ -1,0 +1,15 @@
+Create new branch
+    one way to create is in repo itself and executing "git pull"
+    another way is creating it in local and push it to repo
+
+$ git switch -c <branchname>
+    or $ git checkout -b <branchname>
+    This will create the branch in local
+$ git push -u <remote name> <branchname>
+    like git push -u origin feature/abc
+
+
+Switch Branches
+
+$ git switch <branchname>
+    or $ git checkout <branchname>
